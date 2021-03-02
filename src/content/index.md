@@ -1,5 +1,4 @@
-# Test
-
-## super!
-
-this is a test
+---
+layout: index.njk
+title: Relatos
+---
