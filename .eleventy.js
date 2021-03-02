@@ -8,9 +8,10 @@ module.exports = (eleventyConfig) => {
 
   return {
     dir: {
-      input: "src/content",
+      input: "src",
       output: "dist",
-      includes: "../layout",
+      includes: "layout",
+      data: "data",
     },
   };
 };

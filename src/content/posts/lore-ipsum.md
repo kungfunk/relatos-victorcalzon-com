@@ -1,5 +1,4 @@
 ---
-layout: article.njk
 title: Lore fistrum no puedor
 ---
 
